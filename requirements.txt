@@ -21,3 +21,8 @@ typing-extensions
 yt-dlp
 cryptography
 certifi
+pytube
+pyleveldb
+megasdk-rest
+hachoir
+pillow
