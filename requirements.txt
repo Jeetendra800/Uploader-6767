@@ -11,3 +11,10 @@ ffmpeg-python
 python-ffmpeg
 m3u8
 beautifulsoup4
+cloudscraper
+pyyaml
+motor
+pymongo
+dnspython
+httpx
+typing-extensions
