@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+flask
+gunicorn
+requests
+python-dotenv
+aiohttp
+aiofiles
+pytgcalls
