@@ -9,3 +9,5 @@ aiofiles
 pytz
 ffmpeg-python
 python-ffmpeg
+m3u8
+beautifulsoup4
