@@ -22,4 +22,3 @@ yt-dlp
 cryptography
 certifi
 pytube
-pyleveldb
